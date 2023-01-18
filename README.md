@@ -16,4 +16,3 @@ http://localhost:8000/api/profile
 ------------------GET method -------------------------
 http://localhost:8000/api/logout
 
-------------------help-link---------------------------
